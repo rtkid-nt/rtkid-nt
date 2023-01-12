@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I'm currently working on game engine<br>👯 I'm looking to collaborate with people who are interested in building a game engine<br>🤝 I'm looking for help understanding how to write my own game engine<br>🌱 I'm currently learning C++, CMake, Git, WinAPI<br>😊 My name is Nikita<br>😉 I'm 17 years old
+🌱 I'm currently learning C++, CMake, Git, WinAPI<br>😊 My name is Nikita<br>😉 I'm 17 years old
 
 # 💻 Tech Stack:
 
