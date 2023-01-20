@@ -4,6 +4,4 @@
 
 # 💻 Tech Stack:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,git,github)](https://skillicons.dev)
