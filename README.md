@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I'm currently learning C++, CMake, Git, WinAPI<br>😊 My name is Nikita<br>😉 I'm 17 years old
+🌱 I'm currently learning C++, CMake, Git, WinAPI
 
 # 💻 Tech Stack:
 
